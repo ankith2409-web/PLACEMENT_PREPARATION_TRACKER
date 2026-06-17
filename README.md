@@ -138,9 +138,6 @@ python populate_db.py
 python app.py
 ```
 
-### 7. Open in your browser
-Go to **[http://127.0.0.1:5000/](http://127.0.0.1:5000/)** to view the app!
-
 ### Seeded Test Accounts:
 I pre-populated two accounts for testing:
 * **Developer Account**:
